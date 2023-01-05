@@ -177,23 +177,4 @@ Here is a glimpse of few graphs we plotted, there are many more in the notebook 
 
 
 
----
-# References
- - https://towardsdatascience.com
- - https://www.analyticsvidhya.com
- - https://machinelearningmastery.com
-
-
----
----
-
-Meet The Team:
-
-> Bhwesh Gaur: https://github.com/bhweshgaur
-
-> S Sravya Sri : https://github.com/SSravyaSri
-
-> Priyanka Dodeja :  https://github.com/PriyankaDodeja
-
-> Ankit Bansal : https://github.com/ankit986
 
